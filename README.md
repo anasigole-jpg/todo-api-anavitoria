@@ -34,13 +34,13 @@ _(Sprint 2: uma linha para cada rota da API)_
 
 **Quadro no início:**
 
-![Quadro no início do Sprint 1](docs/sprint1-inicio.png)
+![Quadro no início do Sprint 1](sprint01-inicio.png)
 
 **Quadro no fim:**
 
-![Quadro no fim do Sprint 1](docs/sprint1-fim.png)
+![Quadro no fim do Sprint 1](sprint01-final.png)
 
-**Placar do `npm run conferir`:** Sprint 1: _(14)_ de 14 · Bônus: _(0)_ de 5
+**Placar do `npm run conferir`:** Sprint 1: _(14)_ de 14 · Bônus: _()_ de 5
 
 ## Sprint 2 — Categorias e relacionamento
 
@@ -52,7 +52,7 @@ _(Sprint 2: uma linha para cada rota da API)_
 
 ![Quadro no fim do Sprint 2](docs/sprint2-fim.png)
 
-**Placar do `npm run conferir`:** Sprint 1: _(preencher)_ de 14 · Sprint 2: _(preencher)_ de 8 · Bônus: _(preencher)_ de 5
+**Placar do `npm run conferir`:** Sprint 2: _(preencher)_ de 14 · Sprint 2: _(preencher)_ de 8 · Bônus: _(preencher)_ de 5
 
 ## Reflexão final
 
