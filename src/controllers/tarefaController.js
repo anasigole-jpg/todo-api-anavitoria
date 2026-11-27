@@ -38,6 +38,13 @@ async function atualizarParcial(req, res) {
   res.status(200).json(tarefa);
 }
 
+async function deletar(req, res) {
+  const deletou = await tarefaService.deletarTarefa(req.params.id);
+  if (!deletou) return res.status(404).json({ erro: "Tarefa nao encontrada" });
+  res.status(204).send();
+}
 
 
-module.exports = { listar, buscarPorId, criar, atualizar, atualizarParcial };
+
+
+module.exports = { listar, buscarPorId, criar, atualizar, atualizarParcial, deletar };
